@@ -8,4 +8,6 @@ n = int(input("Enter the value: "))
 
 
 for i in range(1,n):
-    print(fibo(i), end="")
+    print(fibo(i), end=" ")
+
+print("\n"*2)
